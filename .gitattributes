@@ -1,0 +1,4 @@
+*.shp binary
+*.shx binary
+*.dbf binary
+*.zip binary
