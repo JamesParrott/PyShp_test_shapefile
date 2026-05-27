@@ -3,7 +3,7 @@
 *If you object to these file being hosted here https://github.com/JamesParrott/PyShp_test_shapefile, please do not hesitate to contact me (James), and I'll remove them ASAP*
 
 We only need some shapefiles downloadable from a Github repo, to test [PyShp](https://github.com/GeospatialPython/pyshp)'s Reader loading shapefiles against, without hammering other people's servers by downloading simultaneously from ~18 Github Actions runners.  There is no requirement for these particular shapefiles to be used, 
-(other than the fact they are not mine, demonstrates to some small extent that I have not cheated (too much) on the tests).
+(other than the fact they are not mine, demonstrating to some small extent that I have not cheated (too much) on the tests).
 
  - airport.{shp,dbf,shx} owned by pubs.usgs.gov/of/2000/of00-006/gisdata/coverage/airports.shx
 
