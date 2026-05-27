@@ -12,7 +12,7 @@ We only need some shapefiles downloadable from a Github repo, to test [PyShp](ht
  - ne_10m_admin_0_boundary_lines_land.zip from http://www.naturalearthdata.com/http//www.naturalearthdata.com/download/10m/cultural/ne_10m_admin_0_boundary_lines_land.zip
  - ne_10m_admin_1_states_provinces.zip from https://www.naturalearthdata.com/downloads/10m-cultural-vectors/ (via https://archive.org/download/ne_10m_admin_1_states_provinces/ne_10m_admin_1_states_provinces.zip)
 
- - gadm41_ATA_shp.zip (Antarctica! 🐧🐧🐧💖  :) from https://geodata.ucdavis.edu/gadm/gadm4.1/shp/gadm41_ATA_shp.zip ( via the amazing GADM, who kindly state:
+ - gadm41_ATA_shp.zip (Antarctica! 🐧🐧🐧💖  ) from https://geodata.ucdavis.edu/gadm/gadm4.1/shp/gadm41_ATA_shp.zip ( via the amazing GADM, who kindly state:
 ["The data are freely available for academic use and other non-commercial use. "](https://gadm.org/data.html) (27 May 2026))
 
 Other files from:  https://github.com/nvkelso/natural-earth-vector
