@@ -14,5 +14,6 @@ We only need some shapefiles downloadable from a Github repo, to test [PyShp](ht
 
  - gadm41_ATA_shp.zip (Antarctica! 🐧🐧🐧💖  ) from https://geodata.ucdavis.edu/gadm/gadm4.1/shp/gadm41_ATA_shp.zip ( via the amazing GADM, who kindly state:
 ["The data are freely available for academic use and other non-commercial use. "](https://gadm.org/data.html) (27 May 2026))
+ - shape-files.zip ("Geographic data of STIB-MIVB network including routes, stops, and service areas.") from https://data.belgianmobility.io/en/data.html
 
 Other files from:  https://github.com/nvkelso/natural-earth-vector
